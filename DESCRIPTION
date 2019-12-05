@@ -1,0 +1,9 @@
+Package: MinNetRank
+Type: Package
+Title: Discovery of candidate cancer genes by network-based integration of multi-omics data
+Version: 1.0
+Date: 2019-11-25
+Author: Ting Wei <weitinging@sjtu.edu.cn>; Zhangsheng Yu
+Maintainer: Ting Wei <weitinging@sjtu.edu.cn>
+Description: MinNetRank utilized minimum strategy to prioritize genes both the mutation relevance score and expression relevance score are high. MinNetRank was a single sample network diffusion approach that could detect personalized driver genes. MinNetRank combined the ranking of genes for individual samples into a robust population-level gene ranking 
+License: LGPL (>= 2)
