@@ -1,6 +1,6 @@
 Package: MinNetRank
 Type: Package
-Title: Discovery of candidate cancer genes by network-based integration of multi-omics data
+Title: An easy and efficient network-based method of integrating multi-omics data for cancer genes discovery
 Version: 1.0
 Date: 2019-11-25
 Author: Ting Wei <weitinging@sjtu.edu.cn>; Zhangsheng Yu
